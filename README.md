@@ -3,6 +3,7 @@
 # 🎧 PADec: Learning Practical High-Fidelity Neural Audio Decoder via Subband-Aware Guidance
 
 **Andong Li, Tong Lei, Lingling Dai, Rilin Chen, Meng Yu, Cunhang Fan, Xiaodong Li, Chengshi Zheng**
+
 🏆 Submitted to Signal Processing Letters · [Paper]() . [Appendix](https://github.com/Andong-Li-speech/PADeC/blob/master/Appendix.pdf) · [Code](https://github.com/Andong-Li-speech/PADeC)
 
 <!-- Replace the Hugging Face path after release if needed. -->
