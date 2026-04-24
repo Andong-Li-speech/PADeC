@@ -1,0 +1,3 @@
+# One absolute audio path per line, or relative paths resolved by data.raw_wavfile_path.
+/path/to/audio_001.wav
+/path/to/audio_002.wav
